@@ -1,0 +1,18 @@
+div .main-section-banner{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0ZUFRsmuXcRZdpUvSyvyEXRAh2CkKHBi0IA&usqp=CAU");
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size:cover;
+}
+/* .main-hot-deals{
+    background-color: aquamarine;
+} */
+
+
+
+.product-images:hover{
+
+    transform: translateY(2px);
+  box-shadow: 3px 8px 5px rgb(189, 186, 186);
+  transition: 0.2s ease-in;
+}
